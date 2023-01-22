@@ -8,6 +8,7 @@ export default function RootLayout({
 }) {
   return (
     <html>
+      <title>Ashhar's Website</title>
       <head />
       <body>
         
